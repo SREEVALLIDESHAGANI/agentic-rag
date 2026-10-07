@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+langgraph
+langchain-community
+chromadb
+tiktoken
+python-dotenv
+python-multipart
+beautifulsoup4
+pdfminer.six
+duckduckgo-search
